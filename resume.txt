@@ -1,80 +1,79 @@
 		    Trevor Stone -- resume @ trevorstone.org
-	      303-EEL-WANG -- I am not currently seeking employment
+	   Boulder, Colorado -- I am not currently seeking employment
      ______________________________________________________________________
 
 Mission Statement
 
-   My mission is to write software which kicks ass. I want to work
-   with smart and creative people on projects which are worth doing
-   right, help people in creative ways, and improve the computer's
-   role as a cognitive tool.  I am especially interested in geography,
-   artificial intelligence, human language, cognitive science, and
-   programming languages.
+   My mission is to write software which helps humanity.  I want to work with
+   smart and creative people on projects which are worth doing right, solve
+   important problems, and improve the computer's role as a cognitive tool.
+   I am especially interested in geography, human language, cognitive science,
+   user interfaces, and data accessibility.
 
 Computer Nerd
 
  * Since my introduction to Logo and BASIC at age 10, I have relished
-   wrapping my mind around formal language and precise instructions.
-   My professional coding experience lies mostly in Java and JavaScript.
-   In my quest for the right balance between fluid English and
-   mathematical formalism I've dabbled in many languages, with C,
-   Ruby, Perl, Python, Go, and Lisp among those I've taken a liking to.
- * A distant descendant of Homo habilis, I adapt quickly to new
-   environments and tools. I swim comfortably in Linux and Mac
-   environments.  I pen code in Eclipse and vim. I speak standards like
-   html, css, sql, and xml.
- * From 2004 to 2009 I worked as a software engineer at Tyler               
-   Technologies, Inc. I worked at all levels of their Java-based            
-   enterprise applications. I explored and questioned requirements with     
-   analysts, built Swing-based GUIs, designed core services, refactored     
-   key data structures, debugged the persistence layer, led complex         
-   module development, crafted a data conversion specification, and         
-   reviewed almost every commit. I created a system to extract named        
-   entities from OCR text. I developed the architecture and user  
-   interface to work with GIS data. I stood out as a "go-to-guy" for        
-   insight about everything from subsystem design to text processing.       
- * At UNAVCO, Inc. in 2003 I used Perl and JavaScript to create
-   educational Earth science map tools.
- * In December, 2003 I graduated from the University of Colorado,
-   Boulder. I received both a Bachelor of Science With Distinction
-   and a Master of Science in Computer Science. My GPA was 3.8 on a
-   4.0 scale.
- * I pursued advanced coursework in object oriented design, algorithms,
-   programming languages, operating systems, network systems, cognitive
-   science, artificial intelligence, machine learning, speech
-   recognition, natural language processing, user interface design,
-   network systems, and Unix system administration.
+   wrapping my mind around formal language and precise instructions.  My
+   professional coding experience lies mostly in Java and JavaScript. In my
+   quest for the right balance between fluid English and mathematical formalism
+   I've used Ruby, Python, Perl, C, bash, and PHP and dabbled in many others
+   from Go to Lisp to Julia to TypeScript.
+ * I help teams and individuals grow.  I've conducted over 200 technical
+   interviews and sit on a hiring committee.  I am a thorough code reviewer
+   and have provided feedback on hundreds of design documents.
+ * Since 2009 I've worked as a staff software engineer at Google.  I work
+   on Google Drive, helping hundreds of millions of users organize, share, and
+   enjoy their files.  I helped build the Drive UI, Drive Viewer and video
+   playback, data analysis pipelines, and server infrastructure.  I built a
+   database for understanding product usage and educated stakeholders on
+   querying it.  I have served on 24/7 on call rotations to ensure availability
+   and reliability of Drive and I work to reduce the operational load of
+   services.  I led a major migration and deletion effort of a critical legacy
+   system serving tens of thousands of user requests per second.
+ * From 2004 to 2009 I worked as a software engineer at Tyler Technologies,
+   building enterprise applications for county government offices.  I explored
+   requirements with analysts, built GUIs, designed core
+   services, led complex module development, and crafted a data conversion
+   specification.  I created a system to
+   extract named entities from OCR text.  I developed the architecture and user
+   interface to work with GIS data.
+ * At UNAVCO in 2003 I used Perl and JavaScript to create educational
+   Earth science map tools.
+ * In December 2003 I graduated from the University of Colorado, Boulder.
+   I received both a Bachelor of Science With Distinction and a Master of
+   Science in Computer Science.  My GPA was 3.8 on a 4.0 scale.
 
 Eclectic Philosopher
 
- * At CU, I minored in philosophy and was president of the Philosophy
-   Club. I love to explore life's deep questions. I use analytic and
-   holistic techniques to explore ethics, society, identity, and
-   metaphysics. I presented a paper on weakness of will at the 2002
-   Rocky Mountain Student Philosophy Conference.
+ * At CU, I minored in philosophy and was president of the Philosophy Club.
+   I love to explore life's deep questions.  I use analytic and holistic
+   techniques to explore ethics, society, identity, and metaphysics.
+   I presented a paper on weakness of will at the 2002 Rocky Mountain Student
+   Philosophy Conference.
  * During high school I taught a Socratic seminar course on world philosophy.
- * My world view ties computer science to philosophy and psychology.
-   I am fascinated by artificial intelligence, cognitive science,
-   linguistics, limits of formal systems, self-organization, and
-   societal use of computers.
+ * My world view ties computer science to philosophy and psychology.  I am
+   fascinated by artificial intelligence, cognitive science, linguistics,
+   limits of formal systems, self-organization, and societal use of computers.
 
 Generally Diverse Individual
 
- * My calm personality, helpful demeanor, mediation and problem
-   solving skills, and concern for public safety led me to positions
-   as a resident advisor at CU and a Black Rock Ranger at Burning Man.
- * In college, I developed leadership skills as chapter vice president
-   of Tau Beta Pi, the national engineering honor society, and as
-   organizer of Pagan and Green Party student groups.
- * I am a friendly and unique individual. While I take projects and
-   tasks seriously, a subtle wit and creative approach to the mundane
-   pervade my actions, keeping a smile present among my fellows. My
-   extensive knowledge of geographic, historic, and scientific facts
-   entertains coworkers during casual moments.
- * I love language. I play with English idioms, speak passable
-   Spanish, and dabble in Chinese.
+ * I literally and figuratively wear many hats in organizations,
+   providing insight and effort wherever needed.
+ * At Burning Man I volunteer as a Black Rock Ranger, practicing compassionate
+   peer counseling, non-confrontational community mediation, and incident
+   management in a diverse and dynamic temporary city.
+ * In college I developed leadership skills as a resident advisor; as
+   chapter vice president of Tau Beta Pi, the national engineering honor
+   society; and as organizer of spiritual and political student groups.
+ * I am a friendly and unique individual.  While I take projects and tasks
+   seriously, a subtle wit and creative approach to the mundane pervade my
+   actions, keeping a smile present among my fellows. My extensive knowledge of
+   geographic, historic, and scientific facts entertains coworkers during
+   casual moments.
+ * I love language.  I play with English idioms, speak passable Spanish,
+   and dabble in Chinese.
  * I connect with the world around me through photography, camping,
    bicycling, and playing games.
 
-Trevor Stone's resume -- November, 2011
-Latest version at http://trevorstone.org/resume.html
+Trevor Stone's resume -- February, 2016
+Latest version at https://trevorstone.org/resume.html
