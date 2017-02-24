@@ -1,0 +1,66 @@
+		    Trevor Stone -- resume @ trevorstone.org
+	      303-EEL-WANG -- I am not currently seeking employment
+     ______________________________________________________________________
+				    Summary
+
+ * My mission is to write software which kicks ass and learn from
+   smart, creative people
+ * Interests include geography, artificial intelligence, human and
+   programming languages, and cognition
+ * Bachelor's and Master's Degrees in computer science, minor in philosophy
+ * Experienced with Java, JavaScript, Ruby, SQL, WWW, Swing, Linux, MacOS X,
+   text processing
+ * Familiar with assembly, C, C++, Go, Io, Lisp, Perl, PHP, Python
+
+				   Experience
+
+Software Engineer -- Google, Inc. -- Boulder, Colorado --
+Nov, 2004 to Present
+  * Google Docs: Tools to organize, share, and enjoy documents and files;    
+    Java and JavaScript                                                      
+  * Developed features to view text and media files uploaded to the web      
+  * Wrote pipelines and graphs to measure and understand product usage       
+  * Monitored and maintained production service used by millions of people 
+
+Software Engineer -- Tyler Technologies, Inc. -- Lakewood, Colorado --
+Feb, 2004 to Apr, 2009
+ * EagleSoftware: Java-based enterprise application for county
+   government offices
+ * Designed, implemented, debugged, and refactored code at all levels
+ * Implemented information extraction from OCR text to save data entry time
+ * Lead developer for GIS architecture and UI, built on GeoTools API
+ * "Go-to-guy" for complicated problems, design/code reviews,
+   theoretical wisdom
+
+Contractor -- UNAVCO, Inc. -- Boulder, Colorado -- May, 2003 to Jan, 2004
+ * Implemented Voyager Jr. and other Earth science web map tools
+ * Perl/CGI server, HTML/CSS/JavaScript client
+
+				   Education
+
+Computer Science -- University of Colorado, Boulder --
+Aug, 1998 to Dec, 2003
+ * Bachelor of Science With Distinction and Master of Science
+ * GPA 3.8 out of 4.0
+ * Minor in Philosophy; president of Philosophy Club, 2000-2001
+ * Advanced coursework including
+                       Machine Learning ~ Algorithms
+                      Cognitive Science ~ Network Systems
+                     Speech Recognition ~ Operating Systems
+                  User Interface Design ~ Programming Languages
+                Artificial Intelligence ~ Object Oriented Design
+            Natural Language Processing ~ Unix System Administration
+
+			     Activities and Hobbies
+
+ * Resident Advisor, University of Colorado Department of Housing, 2001-03
+ * Vice President, Tau Beta Pi engineering honor society, Colorado
+   Beta chapter, 2002-03
+ * President, Philosophy Club, 2000-01
+ * Black Rock Ranger, Burning Man, 2009-present
+ * English master, intermediate Spanish speaker, Chinese novice,
+   amateur linguist
+ * Digital photographer, game player, world traveler, wearer of many hats
+
+Trevor Stone's resume -- November, 2011
+Latest version at http://trevorstone.org/resume.html
