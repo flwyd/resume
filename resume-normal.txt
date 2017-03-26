@@ -1,7 +1,7 @@
-		    Trevor Stone -- resume @ trevorstone.org
-	   Boulder, Colorado -- I am not currently seeking employment
+                   Trevor Stone -- resume @ trevorstone.org
+          Boulder, Colorado -- I am not currently seeking employment
      ______________________________________________________________________
-				    Summary
+                                   Summary
 
  * My mission is to write software which helps humanity and to learn from smart,
    creative people
@@ -13,7 +13,7 @@
  * Familiar with C, C++, Go, Julia, Lisp, Perl, PHP, Python, Ruby, and many open
    source tools
 
-				   Experience
+                                  Experience
 
 Staff Software Engineer -- Google, Inc. -- Boulder, Colorado --
 Nov, 2004 to Present
@@ -44,7 +44,7 @@ Contractor -- UNAVCO, Inc. -- Boulder, Colorado -- May, 2003 to Jan, 2004
  * Implemented "Jules Verne Voyager Jr." and other Earth science web map tools
  * Perl/CGI server, HTML/CSS/JavaScript client
 
-				   Education
+                                  Education
 
 Computer Science -- University of Colorado, Boulder --
 Aug, 1998 to Dec, 2003
@@ -53,16 +53,19 @@ Aug, 1998 to Dec, 2003
  * Minor in Philosophy; president of Philosophy Club, 2000-2001
  * Leader in engineering, spiritual, and political student groups
 
-			     Activities and Hobbies
+                            Activities and Hobbies
 
  * Black Rock Ranger, Burning Man, 2009-present, public safety and peer
    counseling
  * Resident Advisor, University of Colorado Department of Housing, 2001-03
  * Vice President, Tau Beta Pi engineering honor society, Colorado
    Beta chapter, 2002-03
+ * Volunteer, Citizen's Climate Lobby, non-partisan activism for climate
+   change solutions
  * English master, intermediate Spanish speaker, Chinese novice,
    amateur linguist
- * Digital photographer, game player, world traveler, wearer of many hats
+ * Homebrewer, digital photographer, game player, world traveler, wearer of
+   many hats
 
-Trevor Stone's resume -- February, 2016
+Trevor Stone's resume -- February, 2017
 Latest version at https://trevorstone.org/resume.html
